@@ -1,2 +1,2 @@
-# curso-github
+# Mi primer README
 curso de github
